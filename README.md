@@ -1,5 +1,5 @@
 # c-place
-c/Place Single Player Pixel Art Game
+c/Place Single Player Pixel Art Game made with Nuxt.js
 
 # cPlace
 
